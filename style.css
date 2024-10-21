@@ -1,0 +1,11 @@
+td {
+	width: 300px;
+	height: 100px;
+}
+th {
+	text-align: left;
+}
+
+table {
+	width: 400px;
+}
